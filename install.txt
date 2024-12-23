@@ -1,3 +1,5 @@
 apt install git
-git clone https://github.com/mr-spongebob/dirscanv1/tree/main
+git clone https://github.com/mr-spongebob/dirscanv1/
+cd dirscanv1
 pip install requests
+python3 dir.py
