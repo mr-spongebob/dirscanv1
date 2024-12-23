@@ -1,0 +1,11 @@
+/file-manager/tinymce
+/file-manager/ckeditor
+/filemanager/dialog.php
+/public/file-manager/tinymce
+/public/file-manager/ckeditor
+/file-manager/
+/vendor/file-manager/
+/vendor/file-manager/dialog.php
+/vendor/file-manager/tinymce
+/vendor/file-manager/ckeditor
+/file-manager/dialog.php
