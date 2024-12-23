@@ -1,0 +1,3 @@
+apt install git
+git clone https://github.com/mr-spongebob/dirscanv1/tree/main
+pip install requests
