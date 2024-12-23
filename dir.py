@@ -48,8 +48,8 @@ def main():
     print("Adit Ganteng")
     print("Email: [kangpepes@protonmail.com]\n")
 
-    websites_file = input("list: ")
-    directories_file = input("dir: ")
+    websites_file = input("list web: ")
+    directories_file = input("list dir: ")
     found_file = "found.txt"  
 
     try:
